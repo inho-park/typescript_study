@@ -1,3 +1,8 @@
+# typescript를 공부해야 하는 이유
+1. 최근 새로 진행되는 React 프로젝트들 대부분이 typescript를 사용하여 진행되고 있다
+2. 단순히 javascript의 불안정한 변수 선언 방식을 해결해줄 수 있다는 장점이 있다
+3. React처럼 props나 state를 components들로 분리하여 관리하는 개발 방식에 매우 효율적일 것이라 생각
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
